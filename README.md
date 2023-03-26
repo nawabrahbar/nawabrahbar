@@ -1,7 +1,11 @@
 ## Hi there 👋 I Mohammad Enayatullah
 
 ### 💫 About Me:
-🔭 I’m currently working at Xylem Inc, Bengaluru<br>〰️ I work mostly with Spring boot, Angular and MongoDB<br>🌱 I’m currently learning Amazon Web Services<br>📫 How to reach me i.mohammad.enayatullah@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/nawabrahbar?tab=repositories
+🔭 I’m currently working at Xylem Inc, Bengaluru<br>
+〰️ I work mostly with Spring boot, Angular and MongoDB<br>
+🌱 I’m currently learning Amazon Web Services<br>
+📫 Reach me on i.mohammad.enayatullah@gmail.com<br>
+👨‍💻 All of my projects are available at <a href="https://github.com/nawabrahbar?tab=repositories">here</a>
 
 
 ### 🌐 Socials:
