@@ -5,7 +5,6 @@
 〰️ I work mostly with Spring boot, Angular and MongoDB<br>
 🌱 I’m currently learning Amazon Web Services<br>
 📫 Reach me on i.mohammad.enayatullah@gmail.com<br>
-👨‍💻 All of my projects are available <a href="https://github.com/nawabrahbar?tab=repositories">here</a>
 
 
 ### 🌐 Socials:
